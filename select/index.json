@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "解けない夏",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-02-24T15:06:15.376946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "解けない夏",
+      "artist": "Aqu3ra",
+      "has_synced": true,
+      "path": "select/01_解けない夏_Aqu3ra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "解けない夏",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_解けない夏_Aqu3ra.txt"
+    }
+  ]
+}
